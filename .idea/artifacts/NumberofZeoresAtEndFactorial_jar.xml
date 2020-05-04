@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NumberofZeoresAtEndFactorial:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NumberofZeoresAtEndFactorial_jar</output-path>
+    <root id="archive" name="NumberofZeoresAtEndFactorial.jar">
+      <element id="module-output" name="NumberofZeoresAtEndFactorial" />
+    </root>
+  </artifact>
+</component>
